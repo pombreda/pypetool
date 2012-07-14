@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Project name="PEFile">
+        <File name="src\peresolve.py" />
+        <File name="src\peresolveex.py" />
+        <File name="src\pestruct.py" />
+        <File name="src\pestructex.py" />
+        <File name="src\peflag.py" />
+        <File name="src\compile_files.py" />
+    </Project>
+</NotepadPlus>
