@@ -1,0 +1,1 @@
+A PE Analysis Tool write by Python. Reference other famous tools such as PEiD or FFI.
